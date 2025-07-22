@@ -30,9 +30,6 @@ https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8?%7CReferer=https://webxzplay
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="All Sports",PTV Sports
 https://ddy6new.newkso.ru/ddy6/premium450/mono.m3u8?%7CReferer=https://webxzplay.cfd&Origin=https://webxzplay.cfd&User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starzplay.png" group-title="All Sports",StarzPlay CricLife 1 HD
-https://windnew.newkso.ru/wind/premium284/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
 
 
 
@@ -221,33 +218,99 @@ https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8|Referer=https%3A%2F%2Fch
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="All Sports",LaLigaTV UK
 https://windnew.newkso.ru/wind/premium276/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="All Sports",WWE Network
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="All Sports",WWE Network
 https://windnew.newkso.ru/wind/premium376/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="All Sports",TSN1
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/xwjQGj4.png" group-title="All Sports",SSC Sport 1
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="All Sports",TSN2
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="All Sports",TSN3
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="All Sports",TSN4
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="All Sports",TSN5
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc1.png" group-title="All Sports",SSC Sport 1
 https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/Jj4UvTX.png" group-title="All Sports",SSC Sport 2
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc2.png" group-title="All Sports",SSC Sport 2
 https://ddy6new.newkso.ru/ddy6/premium615/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/uzsmfNh.png" group-title="All Sports",SSC Sport 3
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc3.png" group-title="All Sports",SSC Sport 3
 https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/oJ4adLP.png" group-title="All Sports",SSC Sport 4
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc4.png" group-title="All Sports",SSC Sport 4
 https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/eoICEWN.png" group-title="All Sports",SSC Sport 5
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc5.png" group-title="All Sports",SSC Sport 5
 https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="All Sports",SSC Sport Extra 1
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-1.png" group-title="All Sports",SSC Sport Extra 1
 https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/5AQlBtc.png" group-title="All Sports",SSC Sport Extra 2
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-2.png" group-title="All Sports",SSC Sport Extra 2
 https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/eNx8jk9.png" group-title="All Sports",SSC Sport Extra 3
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-3.png" group-title="All Sports",SSC Sport Extra 3
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="All Sports",Arena Sport 1 BiH
+https://windnew.newkso.ru/wind/premium579/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="All Sports",Arena Sport 1 Croatia
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="All Sports",Arena Sport 1 Premium
+https://windnew.newkso.ru/wind/premium134/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-1-rs.png" group-title="All Sports",Arena Sport 1 Serbia
+https://windnew.newkso.ru/wind/premium429/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-2-hr.png" group-title="All Sports",Arena Sport 2 Croatia
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="All Sports",Arena Sport 2 Premium
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-2-rs.png" group-title="All Sports",Arena Sport 2 Serbia
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-3-hr.png" group-title="All Sports",Arena Sport 3 Croatia
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="All Sports",Arena Sport 3 Premium
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-3-rs.png" group-title="All Sports",Arena Sport 3 Serbia
+https://windnew.newkso.ru/wind/premium431/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-4-hr.png" group-title="All Sports",Arena Sport 4 Croatia
+https://windnew.newkso.ru/wind/premium580/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-4-rs.png" group-title="All Sports",Arena Sport 4 Serbia
+https://windnew.newkso.ru/wind/premium581/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-1-uk.png" group-title="All Sports",ITV 1 UK
 https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
@@ -564,43 +627,7 @@ https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8|Referer=https%3A%2F%2Fchimer
 #EXTINF:-1 tvg-id="BarcaTV(Catalan).es" tvg-logo="https://i.imgur.com/BZJXCsH.png" group-title="All Sports",Barca TV Spain
 https://windnew.newkso.ru/wind/premium522/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="All Sports",Arena Sport 1 BiH
-https://windnew.newkso.ru/wind/premium579/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-1-hr.png" group-title="All Sports",Arena Sport 1 Croatia
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="All Sports",Arena Sport 1 Premium
-https://windnew.newkso.ru/wind/premium134/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-1-rs.png" group-title="All Sports",Arena Sport 1 Serbia
-https://windnew.newkso.ru/wind/premium429/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-2-hr.png" group-title="All Sports",Arena Sport 2 Croatia
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="All Sports",Arena Sport 2 Premium
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-2-rs.png" group-title="All Sports",Arena Sport 2 Serbia
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-3-hr.png" group-title="All Sports",Arena Sport 3 Croatia
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="All Sports",Arena Sport 3 Premium
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-3-rs.png" group-title="All Sports",Arena Sport 3 Serbia
-https://windnew.newkso.ru/wind/premium431/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/croatia/arena-sport-4-hr.png" group-title="All Sports",Arena Sport 4 Croatia
-https://windnew.newkso.ru/wind/premium580/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-sport-4-rs.png" group-title="All Sports",Arena Sport 4 Serbia
-https://windnew.newkso.ru/wind/premium581/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arte.png" group-title="All Sports",Arte DE
+#XTINF:-1 tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arte.png" group-title="All Sports",Arte DE
 https://ddy6new.newkso.ru/ddy6/premium725/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 
@@ -717,21 +744,6 @@ https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8|Referer=https%3A%2F%2Fch
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-sports-tv-ae.png" group-title="All Sports",Dubai Sports 3 UAE
 https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="All Sports",TSN1
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="All Sports",TSN2
-https://zekonew.newkso.ru/zeko/premium112/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="All Sports",TSN3
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="All Sports",TSN4
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="All Sports",TSN5
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 
 #EXTINF:-1 tvg-id="SPORTV.br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportv-br.png" group-title="All Sports",SporTV Brazil
